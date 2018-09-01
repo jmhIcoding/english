@@ -1,172 +1,172 @@
 Day 1
-Authority
-Reproduce
-Productivity
-Fossil
-Fossilization
-Fossilize
-Artistic
-Mass
-Organism
-Individualism
-Indicate
-Sediment
-Sedimentary
-Sedimentation
-Influential
-Gasoline
-Outgassing
-Cavern
-Oceanic
-Oceanographer
-Interglacial .n
-Variable .n
-Invariably .adv
-National
-Aggression
-Aggressiveness
-Upper
-Atmospheric
-Facial
-Urbanization
-Economic .adj
-Economical .adj
-Transportation
-Manufacture .n
-manufacturer .n
-Quality
-Marine .adj
-Submarine .n
-Extinct .adj
-Jupiter
-Erosion .n
-Erode .v
-Constructive .adj
-Architecture .n
-Architect .n
-Supply
-Colony .n
-Colonize .v
-Meteorite .n
-Desertification .n
-Storefront .n
-Political .adj
-Politician .n
-Plate .n
-Plateau .n
-Exposition .n
-Complement .n
-Pheromone .n
-Craftspeople
-Craftsmanship  .n
-Literature .n
-Instrument .n
-Identifiable .adj
-Substance .n
-Ranging .n
-Quantity .n
-Primarily adv.
-Considerable adj.
-Pacific
-Grasshopper n.
-Carbohydrate n.
-Carbonate v.
-Carboniferous  adj.
-Predatory adj.
-Predation n.
-Diversion n.
-Democratic adj.
-Stylistic adj.
-Projector n.
-Whale
-Galaxy n.
-Laborious adj.
-crater n.
-Sculpture
-Rural adj.
-Cetacean n.
-Organically adj.
-Removal n.
-Interdependence n.
-Adaptability n.
-Folk
-Remain v.
-Relate
-Illustrate v.
-Emphasis n.
-Survival n.
-Settler n.
-Paleolithic adj.
-Demonstrate v.
-Artisan n.
-Plain n.
-Interior n.
-Engineering n.
-Deposit n.
-Deposition n.
-Continuous adj.
-Continuum n.
-Continuity n.
-Physical adj.
-Dye  n.v.
-Consistent adj.
-Tuna n.
-Acorn n.
-Spot n.
-Sculptor n.
-Nitrogen n.
-Evolutionary adj.
-Evolve v.
-Eventually adv.
-Compose v.
-Composition n.
-Composer n.
-Volcano n.
-Renaissance n.
-Religious adj.
-Petroleum n.
-Feather n.
-Feature n.
-Crust n.�ؿ�
-sentence n.
-periodic adj.
-periodically adv.
-organism n.
-microorganism n.
-occurrence n.
-glaciation n.
-iron n.
-economically n.
+Authority n.权威
+Reproduce n.再生，繁殖，复制
+Productivity n.生产力
+Fossil  adj.化石的
+Fossilization n.石化作用
+Fossilize n.使石化
+Artistic adj.艺术的
+Mass n.块 adj.大量的
+Organism n.生物
+Individualism n.个人主义
+Indicate v.显示说明
+Sediment n.沉淀
+Sedimentary adj.沉淀的
+Sedimentation n.沉淀作用
+Influential adj.重要的
+Gasoline n.汽油
+Outgassing v.除气作用
+Cavern n.巨穴
+Oceanic adj.海洋的
+Oceanographer n.海洋学家
+Interglacial .n两个冰川期之间的温暖是时期
+Variable .n 变量
+Invariably .adv 永恒地，不变的
+National adj.国民的
+Aggression n.侵略，好斗
+Aggressiveness n.侵略性
+Upper adj.上面的
+Atmospheric adj.大气的
+Facial adj.面部的
+Urbanization n.都市化
+Economic .adj经济的
+Economical .adj 节俭的
+Transportation n.运输
+Manufacture .v批量生产
+manufacturer .n 批发商
+Quality n.质量，品质
+Marine .adj 海洋的
+Submarine .n 海底生物
+Extinct .adj 灭绝的
+Jupiter n.木星
+Erosion .n侵蚀，风蚀
+Erode .v风蚀
+Constructive .adj 建设性的
+Architecture .n 结构、架构
+Architect .n 建筑学
+Supply v.供给
+Colony .n 殖民地
+Colonize .v 殖民化
+Meteorite .n 陨石
+Desertification .n 沙漠化
+Storefront .n 店面
+Political .adj政治的
+Politician .n 政治家
+Plate .n 盘子
+Plateau .n 高原
+Exposition .n 展览
+Complement .n 补充物
+Pheromone .n 生长激素、外激素
+Craftspeople n.工匠
+Craftsmanship  .n 技艺、工艺
+Literature .n 文学、著作
+Instrument .n 乐器、设备
+Identifiable .adj 可识别的
+Substance .n 物质
+Ranging .n 山脊 
+Quantity .n大量、量
+Primarily adv.首要地
+Considerable adj.相当大的、可观的
+Pacific 太平洋
+Grasshopper n.蚂蚱
+Carbohydrate n.糖水化合物
+Carbonate v.碳化作用
+Carboniferous  adj.含碳的
+Predatory adj.捕食的
+Predation n.捕食行为
+Diversion n.消遣
+Democratic adj.民主主义的
+Stylistic adj.成风格的
+Projector n.投影仪
+Whale n.鲸鱼
+Galaxy n.银河系
+Laborious adj.费力的
+crater n.火山口
+Sculpture n.雕塑
+Rural adj.乡下的，乡村的
+Cetacean n.鲸鱼
+Organically adj.有机地
+Removal n.移除
+Interdependence n.相互依赖
+Adaptability n.适应性
+Folk n.人物 adj.民间的
+Remain v.剩余、保持
+Relate 相关的
+Illustrate v.阐述
+Emphasis n.强调
+Survival n.幸存者
+Settler n.移民
+Paleolithic adj.旧石器时代
+Demonstrate v.解释
+Artisan n.工匠
+Plain n.明文
+Interior n.内政
+Engineering n.工程
+Deposit n.存款
+Deposition n.罢免
+Continuous adj.连续的
+Continuum n.连续性
+Continuity n.连续性
+Physical adj.物理的、身体的
+Dye  n.v.染色
+Consistent adj.一致的
+Tuna n.金枪鱼
+Acorn n.橡果树
+Spot n.斑点、污点
+Sculptor n.雕塑家
+Nitrogen n.氮
+Evolutionary adj.进化的
+Evolve v.进化
+Eventually adv.最终地
+Compose v.作曲、伴奏、组成
+Composition n.作品
+Composer n.作曲家
+Volcano n.火山
+Renaissance n.文艺复兴
+Religious adj.宗教的
+Petroleum n.汽油
+Feather n.羽毛
+Feature n.特征
+Crust n.地壳
+sentence n.监狱、句子
+periodic adj.周期的
+periodically adv.周期地、循环地
+organism n.组织、生物
+microorganism n.微生物
+occurrence n.事件
+glaciation n.冰川化
+iron n.铁、熨斗
+economically adv.节俭地
 submarine n.
 erode v.
 meteorite n.
 exposition n.
-markedly adv.
+markedly adv.显著的
 craftsmanship n.
-primarily adv.
-primary n. adj.
-considerable adj.
-considerate adj.
-predatory adj.
-frequent adj.
-democrat n.
-projection n.
-grain n.
-laborious n.
-functionism n.
-crate n.
-sculpture n.   v. 
-organically adv.
-folk n.   adj.  
+primarily adv.首要地
+primary n. adj.首选、首要的
+considerable adj.可观的
+considerate adj.考虑周到的
+predatory adj.捕食的
+frequent adj.频繁的
+democrat n.民主主义
+projection n.投影、发射
+grain n.谷物
+laborious n.费力的
+functionism n.功能主义
+crater n.火山口
+sculpture n.雕塑   v.雕刻 
+organically adv.有机地
+folk n.   adj.  民间的
 artisan n.
 plain n. 
 interior n.    adj.  
 electrical adj.  (electrical worker)
-crow n.
+crow n.乌鸦
 cell n. ____,____,____
 nitrogen n.
-flight n..
-estimate v. 
+flight n.飞行
+estimate v. 估计
 
 
 
