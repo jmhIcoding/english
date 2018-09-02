@@ -1,8 +1,8 @@
 Day 1
 Authority n.权威
 Reproduce n.再生，繁殖，复制
-Productivity n.生产力
-Fossil  adj.化石的
+Productivity n.产量
+Fossil  n.化石
 Fossilization n.石化作用
 Fossilize n.使石化
 Artistic adj.艺术的
@@ -29,7 +29,7 @@ Upper adj.上面的
 Atmospheric adj.大气的
 Facial adj.面部的
 Urbanization n.都市化
-Economic .adj经济的
+Economic .adj经济的,实用的
 Economical .adj 节俭的
 Transportation n.运输
 Manufacture .v批量生产
