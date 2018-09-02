@@ -15,7 +15,7 @@ Hydrogen n.氢
 Climax n.高潮
 Aquifer n.含水层
 Microscopic adj.显微镜可视的
-Metal n.金属的
+Metal n.金属/合金 adj.金属的
 Helium n.氦
 Continental adj.大陆的
 Supercontinent n.超级大陆
@@ -60,18 +60,18 @@ Inhabit v.居住
 Chimpanzee n.大猩猩
 Solution n.溶液
 Portray v.描绘
-Parlor n.店子
+Parlor n.店子/客厅/会议室
 Distinct adj.清晰的
-Distinctive adj.可区分的
+Distinctive adj.可区分的,与众不同的
 Tulip n.郁金香
 Textile n.组织
 Terrestrial adj.陆地的
-Surge v.汹涌
+Surge v.汹涌,激增,增长
 merchant n.商人
 Migration n.迁移
 Migratory adj.迁移的、移居的
 Immigration n.迁移
-Fundamental n.基础
+Fundamental n.基本原理
 Pueblo n.印第安人村庄
 Mechanism n.机制
 Industrialization n.工业化
@@ -89,10 +89,11 @@ Commerce n.商业
 Commercially adj.在商业角度上
 represent v.描述、代表
 Pottery n.陶器
+potter n.陶艺家
 Potash n.碳酸钾
 Myth n.神话
 geological adj.地质学的
-conception n.构想
+conception n.构想，怀孕
 Squirrel n.松鼠
 disprove v.证明···是假的
 personal adj.私人的
@@ -114,7 +115,8 @@ Auroras n.极光
 Whereas n.但是
 Venus n.金星
 Vent n.v.发泄、释放
-University n.普遍性
+Universality n.普遍性
+university n.大学
 Rite n.仪式
 Prior adj.先的
 Primitive n.原始人
