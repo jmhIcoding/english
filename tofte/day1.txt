@@ -70,7 +70,7 @@ Considerable adj.相当大的、可观的
 Pacific 太平洋
 Grasshopper n.蚂蚱
 Carbohydrate n.糖水化合物
-Carbonate v.碳化作用
+Carbonate v.使成为碳酸盐 n.碳酸盐
 Carboniferous  adj.含碳的
 Predatory adj.捕食的
 Predation n.捕食行为
@@ -91,19 +91,19 @@ Interdependence n.相互依赖
 Adaptability n.适应性
 Folk n.人物 adj.民间的
 Remain v.剩余、保持
-Relate 相关的
+Relate v.涉及，有关
 Illustrate v.阐述
 Emphasis n.强调
 Survival n.幸存者
-Settler n.移民
+Settler n.移民,定居此地者
 Paleolithic adj.旧石器时代
 Demonstrate v.解释
 Artisan n.工匠
-Plain n.明文
+Plain n.明文,平原
 Interior n.内政
 Engineering n.工程
 Deposit n.存款
-Deposition n.罢免
+Deposition n.罢免,放置
 Continuous adj.连续的
 Continuum n.连续性
 Continuity n.连续性
@@ -161,7 +161,7 @@ folk n.   adj.  民间的
 artisan n.
 plain n. 
 interior n.    adj.  
-electrical adj.  (electrical worker)
+electrical adj.  (electrical worker) ===>本身可不带电，从事与电相关
 crow n.乌鸦
 cell n. ____,____,____
 nitrogen n.
