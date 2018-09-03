@@ -34,7 +34,9 @@ Exploratory adj.
 Dweller n.
 Decay n.
 Coppersmith n.
-Ceremonial adj. =ritual 
+Ceremonial adj. =ritual
+ceremony n.
+cast v. n.
 Animation n.
 Abundance n.
 Volume n.
@@ -43,6 +45,7 @@ Stretch v.
 Mississippi n.
 Investigate v.
 Graze v.
+critical adj.
 Criticize v.
 Creature n.
 Coarse adj.
@@ -52,6 +55,7 @@ Anthropologist n.
 Agrarian adj.
 Saturate v.
 propose v.
+stagecoach n.
 nutritional adj.
 nutrition n.
 magnetic adj.
@@ -59,17 +63,21 @@ justify v.
 invest v.
 imitative adj.
 glaze v.
+engage v.
 geometric adj.
 formalize v.
 extract v.
 entrance n.
 crucial adj.
+collectively adv.
 molecular adj.
 collectively
 charcoal n.
 archaeopteryx n.
 archaeology n.
 aesthetically adv.
+streamline v.
+stove n.
 Unfortunately adv.
 Ultimately adv.
 Subsequent adj.
@@ -80,10 +88,15 @@ Neolithic adj.
 Molt v.
 Maria n.
 Fluctuate v.
+fictional adj.
+drain v.
+tract n.
 Category n.
 Wagon n.
 thrive v.
 Scheme n.
+mill n.
+journeymen n.
 Revise v.
 Repress v.
 Pterosaur n.
@@ -94,6 +107,9 @@ Gulf n.
 excavate v.
 Engrave v.
 Debris n.
+assemble v.
+antarctic n.
+supplement n.
 Crude adj.
 Cone n.
 Cognitive adj.
@@ -104,11 +120,13 @@ Twig n.
 Terrain n.
 Terra n.
 Superior n.
+superiority n.
+struggle v.
 substantial adj.
 Stem n.
 Spiral n.
 Speculation n.
-Slope 
+Slope n.
 Sieve n.
 Shrub n.
 Psychological adj.
