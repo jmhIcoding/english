@@ -1,5 +1,5 @@
 Day 3
-Enhance v.加强
+Enhance v.提高
 Domestic adj.家庭的，国内的
 Consciousness n.意识
 Conscious adj.意识的，良知的
@@ -11,7 +11,7 @@ Pore n.孔
 Porous adj.多孔的
 Porosity n.多孔性
 Issue n.组织，问题，
-Gill n.鱼鳍
+Gill n.腮
 Generation n.代 子孙万代
 Fort n.堡垒
 Federal adj.联邦的
@@ -27,7 +27,7 @@ Sophisticated adj.老练的
 Shellfish n.软体动物
 Plankton n.浮游动物
 Multiple n. 倍数	adj.倍的，多的
-Mantle n.帐篷
+Mantle n.斗篷,遮盖物
 Inevitable adj.不可避免的
 Freshwater n.淡水
 Exploratory adj.探索的
@@ -39,7 +39,7 @@ ceremony n.仪式
 cast v.扔投掷 n.演员
 Animation n.动作、动画
 Abundance n.充足
-Volume n.量、册子
+Volume n.量、册子、体积、卷
 Visual adj.可视的 
 Stretch v.拉伸 拓展
 Mississippi n.
@@ -54,7 +54,7 @@ Atlantic n.大西洋
 Anthropologist n.人类学家
 Agrarian adj.灌溉的
 Saturate v.浸湿
-propose v.建议 提议
+propose v.建议 提议 求婚
 stagecoach n.公共马车
 nutritional adj.营养的
 nutrition n.营养
@@ -63,7 +63,7 @@ justify v.证明合法
 invest v.投资
 imitative adj.模仿的
 glaze v.上光
-engage v.设计 参与
+engage v.设计 参与 使订婚
 geometric adj.几何的
 formalize v.使正式化
 extract v.提取
@@ -81,7 +81,7 @@ stove n.火炉
 Unfortunately adv.不幸的
 Ultimately adv.最终地
 Subsequent adj.后来的
-Severe adj.
+Severe adj.严厉的 严苛的
 Satire n.讽刺
 Nevertheless adv.但是
 Neolithic adj. 
@@ -90,7 +90,7 @@ Maria n.月球表面的阴暗部分
 Fluctuate v.波动
 fictional adj.虚构的
 drain v.排水
-tract n.道路
+tract n. 束；大片土地，地带；小册子
 Category n.目录
 Wagon n.四轮马车
 thrive v.兴旺 繁荣
@@ -108,7 +108,7 @@ excavate v.挖掘
 Engrave v.刻
 Debris n.残骸
 assemble v.组装 分配
-antarctic n.大西洋
+antarctic n.南极洲
 supplement n.增补
 Crude adj.粗鲁的
 Cone n.圆锥体
@@ -117,10 +117,10 @@ Clue n. 线索
 Catastrophe n.灾难？
 Assemble v.分配
 Twig n.枝桠
-Terrain n.陆地
-Terra n.陆地
+Terrain n.地势、地带
+Terra n.陆地，地球，土地
 Superior n.上司
-superiority n.优先级
+superiority n.优越性
 struggle v.奋斗
 substantial adj.物质的
 Stem n.树干
