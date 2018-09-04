@@ -2,6 +2,9 @@ Day 4
 evident adj.
 dispersal  n.
 delicate adj.
+cease v.
+absorption n.
+tablet n.
 inadequent adj.
 reabsorbed adj.
 sustain v.
@@ -12,8 +15,11 @@ phase n.
 parasite n.
 offshore adj.
 odor n.
+occupational adj.
 medium n.
 massive adj.
+latitude n.
+freight n.
 margin n.
 legislation n.
 innovation n.
@@ -23,17 +29,18 @@ forage n. 	v.
 forager n.
 flourish v.
 finch n.
-enclose v.Î§ÈÆ ×°Èë
-embryo n.ÅßÌ¥
+enclose v.å›´ç»• è£…å…¥
+embryo n.èƒšèƒ
 eliminate v.
 confine v.
 collide v.
 canoe n.
 bubble n.
-beam n. v.ÕÕÉä
+beam n. v.ç…§å°„
 withstand v.
 turnpike n.
 termite n.
+strain n.
 successive adj.
 successional adj.
 residential adj.
@@ -45,11 +52,14 @@ prevail v.
 motif n.
 manipulate v.
 limestone n.
-lesser adj.´ÎÒªµÄ
+lesser adj.æ¬¡è¦çš„
 larva n.
 kiln n.
 incubation n.
 incorporation n.
+corporation n.
+infant n. adj.
+inscription n.
 imprint v.
 hostile adj.
 groove n.
@@ -62,10 +72,17 @@ excessive adj.
 enterpreneur nl.
 diameter n.
 chamber n.
+circular adj.
+circulation n.
+excess adj.  v.
+census n.
 capillary n.
 automobile n.
 advent n.
-swamp n.ÕÓÔó
+therapy n.
+tile n.
+wilderness n.
+swamp n.æ²¼æ³½
 susceptible adj.
 surplus n.
 scent n.
@@ -80,7 +97,7 @@ lunar adj.
 leafy adj.
 lava n.
 intermediate n.
-institude n
+institude n.
 institution n.
 inhibit v.
 impart v.
@@ -96,7 +113,7 @@ costume n.
 constituent n.
 congress n.
 concur v.
-compact v. 	n.ºÏÍ¬
+compact v. 	n.åˆåŒ
 circumstance  n.
 circumscribe  v.
 circumference  n.
@@ -114,9 +131,10 @@ toxic adj.
 tale n.
 subtle adj.
 strand n.
+trapping n.
 staple n.
 sap v.
-sacrifice v.
+sacrifice v.  n.
 relic n.
 reel n.
 prominent adj.
@@ -127,6 +145,7 @@ phenomenon n.
 notation n.
 nich n.
 meadow n.
+marvel n.
 manifest v.
 manifestation n.
 magma n.
@@ -135,7 +154,6 @@ legitimate v.	adj.
 laten adj.
 intricate adj.
 instruction n.
+makeup n.è¡¥å……,åŒ–å¦†å“
 
-
-?
 
