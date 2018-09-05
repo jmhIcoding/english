@@ -1,9 +1,9 @@
 Day 4
 evident adj.明显的
 dispersal  n.分散
-delicate adj.优雅的
+delicate adj.精致的,易碎的
 cease v.停止
-absorption n.吸收
+absorption n.吸收,全神贯注
 tablet n.平板
 inadequent adj.不足的
 reabsorbed adj.重吸收的
@@ -40,7 +40,7 @@ beam n.房梁 v.照射
 withstand v.经受住
 turnpike n.公路
 termite n.白蚁
-strain n.带
+strain n.紧张、拉力
 successive adj.连续的
 successional adj.连续的
 residential adj.居住的
@@ -56,7 +56,7 @@ lesser adj.次要的
 larva n.幼虫
 kiln n.窑
 incubation n.孵化
-incorporation n.合并
+incorporation n.合并,公司
 corporation n.股份公司
 infant n.婴儿 adj.婴儿的
 inscription n.刻、题铭
@@ -64,48 +64,48 @@ imprint v.印入
 hostile adj.不怀好意的
 groove n.凹槽
 granite n.花岗岩
-frost n.雾
+frost n.霜
 flock n.鸟群
 fertile adj.肥沃的 
 facility n.工具
-excessive adj.过剩的
+excessive adj.过多的，过度的
 enterpreneur n.企业家
 diameter n.直径
 chamber n.房间、心室
 circular adj.循环的
 circulation n.发行量、流通
-excess adj.过度的  v.过度使用
+excess adj.过度的,超额的  n.超额
 census n.人口普查
 capillary n.毛细血管
 automobile n.汽车
 advent n.出现
 therapy n.治疗
-tile n.？？
-wilderness n.野外户外
+tile n.瓦片
+wilderness n.荒地
 swamp n.沼泽
-susceptible adj.？
+susceptible adj.易受影响的
 surplus n.过剩
 scent n.气味
-resilience n.？
+resilience n.弹力
 radically adv.完全的
 propusion n.推动力
 precise adj.精确的
 polar adj.两极的
-pent-up adj.抑制的、压抑的
+pent-up adj.被抑制的、压抑的
 paleontologist n.古生物学家
 lunar adj.阴历的
 leafy adj.枝繁叶茂的
-lava n.岩石
+lava n.岩浆
 intermediate n.中间
-institude n.协会、学院
+institute n.协会、学院
 institution n.机构
 inhibit v.禁止
 impart v.告知
 harsh adj.刺耳的
 furnace n.火炉
 frustration n.挫败
-fir n.鱼叉？
-exert v.利用
+fir n.杉木
+exert v.利用,运用
 exactlty adv.具体地
 eddy n.漩涡
 cuneiform n.楔形文字
@@ -115,35 +115,35 @@ congress n.议会
 concur v.意见抑制
 compact v.压缩 	n.合同
 circumstance  n.环境
-circumscribe  v.限制
+circumscribe  v.限制,外切
 circumference  n.周长
 circulation n.流通
-bulb n.？？
+bulb n.电灯泡
 bay n.海湾
 adverse adj. 逆向的
 acreage n.英亩数
 weigh vt.重···
 velocity n.速度
 ultilize v.利用、实现
-ultility n.工具
+ultility n.实用
 ultralviolent adj.紫外线
 toxic adj.有毒的
 tale n.神话故事
 subtle adj.微妙的
-strand n.带
+strand n.海滨，串
 trapping n.外部装饰品
-staple n.装订机
-sap v.破坏
+staple n.装订机,把··分级
+sap v.破坏,使耗竭
 sacrifice v.牺牲  n.牺牲品
 relic n.遗迹
 reel n.卷轴
-prominent adj.重要的
+prominent adj.重要的,杰出的,卓越的
 prevanent adj.流行的
 predecessor n.祖先
 potassium n.钾
 phenomenon n.现象
-notation n.记号
-nich n.生态位
+notation n.乐谱
+niche n.生态位
 meadow n.草地
 marvel n.惊奇的食物
 manifest v.表明
@@ -151,7 +151,7 @@ manifestation n.表明
 magma n.岩浆
 luxury adj.奢侈的
 legitimate v.认为···合法	adj.立法的
-laten adj.潜在的
+laten adj.潜在的 v.使变迟
 intricate adj.复杂的
 instruction n.指导、指令
 makeup n.补充,化妆品
