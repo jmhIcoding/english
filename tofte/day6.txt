@@ -22,8 +22,8 @@ Replenish v.把···装满
 Rear n.后部
 Prone adj.倾向的
 Prestige n.名声、名望
-Plumb n.???
-Peregrine adj.外来的
+Plumb n. 垂直；铅锤
+Peregrine adj.外来的 n. 游隼
 Pamphlet n.小册子
 Otter n.
 Ornate v.装饰
@@ -45,11 +45,11 @@ Kerosene n.煤油
 Jewelry n.珠宝
 Jaw n.咽喉
 Inferior adj.低下的
-Indispensable adj.没有补偿的
-Incidental adj.???
+Indispensable adj.不可缺少的；绝对必要的；责无旁贷的
+Incidental adj. 附带的；偶然的；容易发生的
 Immense adj.巨大的
 Ignite v.点燃
-Humanity n.湿度
+Humanity n.人性
 Hibernate v.冬眠
 Heel n.脚后跟
 Headquarter n.总部
@@ -78,26 +78,26 @@ Dedicate v.致力于
 Crown n.皇冠
 Crevice n.裂缝
 Cranial adj.头盖骨
-Cramp v.		n.
+Cramp v.钳 n.
 Counterpart n.副本
 Conifer n.针叶林
 Clan n.家族
 Chlorophyll n.叶树体
-Chisel n.	v.	
+Chisel n.凿子 v.	
 Cedar n.雪松
 Caste n.种新制度
 Bovine n.牛
-Boulder n.
+Boulder n.大圆石
 Beak n.鸟嘴
 Ascent n.上升
 Archaeocyte n.考古学
-Arboreal adj.
+Arboreal adj.树木的；栖息在树上的
 Adept adj.熟练的
 Whereby adv.凭什么	=(how )
 Viscosity n.粘性
 Vigorous adj.巨大的
-Vacancy n.??
-Turbulent adj.
+Vacancy n.空缺；空位；空白；空虚
+Turbulent adj.骚乱的，混乱的；
 Tributary n.附庸国
 Torque n.力矩
 Tobacco n.烟草
@@ -107,9 +107,9 @@ Suspect v.怀疑的
 Succulent adj.多汁的
 Subsidize v.资助
 Subscribe v. 签署、捐赠
-Strive v.???
-Stationary adj.??
-Startle v.??
+Strive vi. 努力；奋斗；抗争
+Stationary adj.静止的；定居的
+Startle v. 使吓一跳；使惊奇
 Stagnant adj.萧条的
 Squander v.挥霍
 Spectator n.奇迹
