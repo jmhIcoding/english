@@ -2,7 +2,7 @@ Day 5
 Imagination n.想像力
 Imaginary adj.想像的
 Humidity n.湿度
-Gull n.海湾
+Gull n.海鸥
 gravel n.沙砾
 flask n.细劲瓶
 exterior n.外部
@@ -29,22 +29,22 @@ trance n.恍惚
 thrust v.插入
 tactic n.策略
 synthetic adj.合成的
-substitute n.??
+substitute n.代替物 v.代替
 squash n.南瓜
 solitary adj.独自的,孤独的
 silica n.硅
 shelve n.书架
-scatter v.消耗
+scatter v.使分散,使散开
 resolution n.决心
 ranch v.经营农场
 proponent n.支持者
 prolific adj.多产的
 presentation n.展示
-precipitation n.猛然下降
+precipitation n.沉淀物、降水
 precious adj.珍贵的
 precise adj.精确的
 previous adj.之前的
-prairie n.平原
+prairie n.大草原、大牧场
 phonograph n.留声机
 penicillin n.盘尼西林
 penetrate v.渗透
@@ -58,11 +58,12 @@ linen n.亚麻
 instinctive adj.本能的
 incubate v.孵化
 incise v.切割
+incentive n.动机
 impose v.把···强加给
 homestead n.家园牧场
 fin n.鳍
-extensive adj.排外滴
-exploit v.使用
+extensive adj.广泛的
+exploit v.开采
 erect v.使竖立
 equivalent n.同等物
 deliberate adj.精心策划的
@@ -73,30 +74,30 @@ controversial adj.争论的
 collision n.碰撞、冲突
 cliff n.悬崖
 cargo n.货物
-basalt n.??
+basalt n.玄武岩
 antibiotic n.抗生素
 ward v.守护
 tongue n.舌头
-tectonic n.??
+tectonic n.构造的、地壳构造上的
 sulfur n.硫
 sulfuric adj.硫酸的
 strike v.罢工、打击
-spinal adj.脊柱的
+spinal adj.脊柱的/尖刺的
 spectacular n.奇观
 slab n.平板
 senate n.参议院
 realm n.领域
 putrefy v.化脓
-presumably adv.？？？
+presumably adv.大概；推测起来；可假定
 Periphery n.周边
 Pebble n.小圆石
 Patch n.补丁
 Parallel n.平行
-Pale n.两级
+Pale adj.苍白的；无力的；暗淡的 n. 前哨；栅栏；范围
 Ore n.矿石
 Notion n.概念、想法
 Mule n.骡子
-Mound n.??
+Mound n.堤岸
 Monument n.纪念碑
 Mobility n.灵活性
 Millennia n.千禧年
@@ -128,11 +129,11 @@ convenient adj.方便的
 Contraction n.缩回
 Complain v.抱怨
 Compensation n.补偿
-Commonplace adj.普通的 	=common
+Commonplace adj.普通的 	=common n. 老生常谈；司空见惯的事；
 Commodity n.大宗商品
 Combustible adj.可燃的
 Cohesive adj.粘性的
-Broadside n.??
+Broadside n. 舷侧；较宽的一面
 Brilliance n.光辉
 Botanical adj.植物的
 Biotic adj.植物学家
