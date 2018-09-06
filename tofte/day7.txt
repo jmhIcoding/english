@@ -3,12 +3,12 @@ Plight n.困境
 Plaster n.石膏
 Perishable adj.易腐败的
 Percussion n.拍打;拍打乐器
-Perceive v.
+Perceive v.察觉
 Peninsula n.小岛
-Penchant n.
+Penchant n.嗜好、爱好
 Patent n.专利
 Patchiness n.点缀
-Pasture n.	v.
+Pasture n.牧场	v.放牧
 Parasitic adj.寄生的
 Optical adj.光学的
 Onward adj.向前的 	adv.向前地
@@ -22,10 +22,10 @@ Myriad adj.无数的
 Mussel n.肌肉
 Morphology n.形态学
 Morally adj.道德的
-Monopoly adj.垄断的
-Momentum n.纪念碑
+Monopoly n.垄断
+Momentum n.势力
 Midair n.空中
-Meticulous adj.注意的
+Meticulous adj.注意的,小心翼翼的
 Methane n.沼气
 Meteorologist n.气象学家
 Melody n.曲调
@@ -43,12 +43,12 @@ Linguistic adj.语言学的
 Liberty n.自由
 Landform n.地形
 Kiva n.穴
-Kinetic adj.
-Keen adj.坚持的
+Kinetic adj.运动的
+Keen adj.敏锐的，敏捷的；渴望的；强烈的；热心的；锐利的 n. 痛哭，挽歌
 Isotope n.同位素
 Iridium n.铱
-Intoxication n.着迷
-Intimate adj.
+Intoxication n. [内科] 中毒；陶醉；喝醉
+Intimate adj.亲密的；私人的；精通的；有性关系的
 Integrity n.完整
 Ingredient n.原料、成分
 Indefinite adj.未定义的
@@ -68,59 +68,59 @@ Friction n.摩擦力
 Fracture n.骨折	v.使骨折
 Foliage n.树叶
 Fodder n.饲料
-Fleece n.棉花
+Fleece n.羊毛
 Flax n.亚麻
 Fern n.蕨类植物
-Feat n.杰作
-Exuberant adj.
-Extermination n.
+Feat n.杰作/壮举
+Exuberant adj.繁茂的；生气勃勃的，充溢的
+Extermination n.消灭；根绝
 Exempt v.豁免
 Execution n.应用、使用
 Ether n.乙醚
 Estate n.不动产
 Erectus n.直立人
-Equatorial n.赤道
+Equatorial adj.赤道的
 Epitome n.象征
 Episode n.集、部
 Endure v.持续
-Encroach v.
+Encroach vi. 蚕食，侵占
 Earthenware n.陶器
 Dwarf v.使···变矮子
-Dormancy n.寝
+Dormancy n.休眠，冬眠
 Dolphin n.海豚
 Disguise v.假装
 Discrete adj.离散的
-Discern v.???
+Discern v.识别；领悟，认识
 Discard v.丢弃
 Diffuse v.散布
-Devour v.???
+Devour v.吞食；毁灭；凝视
 Despondent adj.失望的
 Deprive v.剥夺
 Depart v.分离
 Demise n.死亡
 Dehydrate v.脱水
-Deciduous adj.???
+Deciduous adj.落叶性的，脱落性的；非永久性的
 decompose v.分解
-Curtain n.帘子		v.??
+Curtain n.帘子		v.遮蔽；装上门帘
 Cue n.线索	v.暗示
 Cotta n.白色小领衣服
 Corpse n.尸体
-Contrary n.???
+Contrary adj. 相反的；对立的 n.对立面
 Contour n.轮廓
 Constitute v.组成
-Condense v.
+Condense v.浓缩；凝结
 Compromise v.妥协
-Comprise v.出现
+Comprise vt. 包含；由…组成
 Clinical adj.临床的
 Chimney n.烟囱
 Celsius n.华氏摄氏度
-Cellulose n.
+Cellulose n.纤维素
 Celestial adj.天空的
 Cavity n.洞穴
 Calcareous adj.钙
-Bushy adj.灌木
-Breed n.
-Boast v.嘲讽
+Bushy adj.灌木林立的
+Breed n.繁殖；饲养；养育，教育；引起
+Boast v.嘲讽,吹牛
 Bluish adj.呈蓝色的
 Bison n.公牛
 Bilingual adj.双语的
@@ -135,8 +135,8 @@ Astounding adj.令人惊骇的
 Assure v.确保
 Arduous adj.艰巨的
 Aqueduct n.水渠
-Anticipate v.参加
-Antennae n.触角
+Anticipate v.预期，期望；占先，抢先；提前使用
+Antennae n.触角,天线
 Alloy n.合金
 Alkaloid n.生物碱
 Algae n.藻类
