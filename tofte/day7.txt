@@ -1,6 +1,4 @@
 Day 7
-
- 
 Plight n.
 Plaster n.
 Perishable adj.
@@ -16,7 +14,6 @@ Optical adj.
 Onward adj. 	adv.
 Notable n.	adj.
 Nomadic adj.
-Nodule n.
 Nitric adj.
 Needle n.		v.
 Nectar n.
@@ -35,6 +32,7 @@ Melody n.
 Megawatt n.
 Mediterranean n.
 Mediocre adj.
+medieval adj.
 Manure n.
 Magnitude n.
 Magnify v.
@@ -59,7 +57,6 @@ Identical adj.
 Huddle v.
 Hormone n.
 Homogeneous adj.
-Hieroglyphic adj.
 Haul v.
 Hamper v.
 Grandiose adj.
@@ -103,6 +100,7 @@ Depart v.
 Demise n.
 Dehydrate v.
 Deciduous adj.
+decompose v.
 Curtain n.		v.
 Cue n.	v.
 Cotta n.
